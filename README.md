@@ -1,1 +1,1 @@
-# cyptocurrency-website-starter
+# interface criada com react e tailwind no intuito de estudos 
